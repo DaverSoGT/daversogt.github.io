@@ -1,0 +1,13 @@
+.main__card img {
+  max-width: 400px;
+}
+.main__lyrics {
+  max-width: 450px;
+}
+.main__lyrics p {
+  font-size: 1.6rem;
+}
+.main__tunein img {
+  margin-top: 3%;
+  width: 68%;
+}

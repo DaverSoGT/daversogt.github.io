@@ -1,0 +1,195 @@
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+.fimanager:before {
+    display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+.flaticon-001-earphones:before { content: "\f100"; }
+.flaticon-002-earphones:before { content: "\f101"; }
+.flaticon-003-earphones:before { content: "\f102"; }
+.flaticon-004-earphones:before { content: "\f103"; }
+.flaticon-005-jack-connector:before { content: "\f104"; }
+.flaticon-006-audio-file:before { content: "\f105"; }
+.flaticon-007-folder:before { content: "\f106"; }
+.flaticon-008-jack-connector:before { content: "\f107"; }
+.flaticon-009-settings:before { content: "\f108"; }
+.flaticon-010-sound:before { content: "\f109"; }
+.flaticon-011-banjo:before { content: "\f10a"; }
+.flaticon-012-musical-note:before { content: "\f10b"; }
+.flaticon-013-earphones:before { content: "\f10c"; }
+.flaticon-014-boombox:before { content: "\f10d"; }
+.flaticon-015-cassette:before { content: "\f10e"; }
+.flaticon-016-compact-disc:before { content: "\f10f"; }
+.flaticon-017-cd-player:before { content: "\f110"; }
+.flaticon-018-cloud-computing:before { content: "\f111"; }
+.flaticon-019-compact-disc:before { content: "\f112"; }
+.flaticon-020-cymbal:before { content: "\f113"; }
+.flaticon-021-volume:before { content: "\f114"; }
+.flaticon-022-djembe:before { content: "\f115"; }
+.flaticon-023-drum:before { content: "\f116"; }
+.flaticon-024-drumsticks:before { content: "\f117"; }
+.flaticon-025-earphones:before { content: "\f118"; }
+.flaticon-026-musical-note:before { content: "\f119"; }
+.flaticon-027-eject:before { content: "\f11a"; }
+.flaticon-028-electric-guitar:before { content: "\f11b"; }
+.flaticon-029-equalizer:before { content: "\f11c"; }
+.flaticon-030-fast-forward:before { content: "\f11d"; }
+.flaticon-031-amplifier:before { content: "\f11e"; }
+.flaticon-032-guitar:before { content: "\f11f"; }
+.flaticon-033-headphones:before { content: "\f120"; }
+.flaticon-034-volume:before { content: "\f121"; }
+.flaticon-035-ipod:before { content: "\f122"; }
+.flaticon-036-earphones:before { content: "\f123"; }
+.flaticon-037-maracas:before { content: "\f124"; }
+.flaticon-038-megaphone:before { content: "\f125"; }
+.flaticon-039-microphone:before { content: "\f126"; }
+.flaticon-040-microphone:before { content: "\f127"; }
+.flaticon-041-album:before { content: "\f128"; }
+.flaticon-042-compact-disc:before { content: "\f129"; }
+.flaticon-043-album:before { content: "\f12a"; }
+.flaticon-044-equalizer:before { content: "\f12b"; }
+.flaticon-045-music-stand:before { content: "\f12c"; }
+.flaticon-046-smartphone:before { content: "\f12d"; }
+.flaticon-047-playlist:before { content: "\f12e"; }
+.flaticon-048-mute:before { content: "\f12f"; }
+.flaticon-049-next:before { content: "\f130"; }
+.flaticon-050-pause:before { content: "\f131"; }
+.flaticon-051-phonograph:before { content: "\f132"; }
+.flaticon-052-piano:before { content: "\f133"; }
+.flaticon-053-play:before { content: "\f134"; }
+.flaticon-054-previous:before { content: "\f135"; }
+.flaticon-055-musical-note:before { content: "\f136"; }
+.flaticon-056-musical-note:before { content: "\f137"; }
+.flaticon-057-radio:before { content: "\f138"; }
+.flaticon-058-record:before { content: "\f139"; }
+.flaticon-059-microphone:before { content: "\f13a"; }
+.flaticon-060-microphone:before { content: "\f13b"; }
+.flaticon-061-rewind:before { content: "\f13c"; }
+.flaticon-062-earphones:before { content: "\f13d"; }
+.flaticon-063-saxophone:before { content: "\f13e"; }
+.flaticon-064-musical-note:before { content: "\f13f"; }
+.flaticon-065-shaker:before { content: "\f140"; }
+.flaticon-066-wave:before { content: "\f141"; }
+.flaticon-067-speaker:before { content: "\f142"; }
+.flaticon-068-stop:before { content: "\f143"; }
+.flaticon-069-tambourine:before { content: "\f144"; }
+.flaticon-070-treble-clef:before { content: "\f145"; }
+.flaticon-071-triangle:before { content: "\f146"; }
+.flaticon-072-trumpet:before { content: "\f147"; }
+.flaticon-073-tuning-fork:before { content: "\f148"; }
+.flaticon-074-turntable:before { content: "\f149"; }
+.flaticon-075-microphone:before { content: "\f14a"; }
+.flaticon-076-violin:before { content: "\f14b"; }
+.flaticon-077-volume:before { content: "\f14c"; }
+.flaticon-078-volume:before { content: "\f14d"; }
+.flaticon-079-volume:before { content: "\f14e"; }
+.flaticon-080-xylophone:before { content: "\f14f"; }
+
+$font-Flaticon-001-earphones: "\f100";
+$font-Flaticon-002-earphones: "\f101";
+$font-Flaticon-003-earphones: "\f102";
+$font-Flaticon-004-earphones: "\f103";
+$font-Flaticon-005-jack-connector: "\f104";
+$font-Flaticon-006-audio-file: "\f105";
+$font-Flaticon-007-folder: "\f106";
+$font-Flaticon-008-jack-connector: "\f107";
+$font-Flaticon-009-settings: "\f108";
+$font-Flaticon-010-sound: "\f109";
+$font-Flaticon-011-banjo: "\f10a";
+$font-Flaticon-012-musical-note: "\f10b";
+$font-Flaticon-013-earphones: "\f10c";
+$font-Flaticon-014-boombox: "\f10d";
+$font-Flaticon-015-cassette: "\f10e";
+$font-Flaticon-016-compact-disc: "\f10f";
+$font-Flaticon-017-cd-player: "\f110";
+$font-Flaticon-018-cloud-computing: "\f111";
+$font-Flaticon-019-compact-disc: "\f112";
+$font-Flaticon-020-cymbal: "\f113";
+$font-Flaticon-021-volume: "\f114";
+$font-Flaticon-022-djembe: "\f115";
+$font-Flaticon-023-drum: "\f116";
+$font-Flaticon-024-drumsticks: "\f117";
+$font-Flaticon-025-earphones: "\f118";
+$font-Flaticon-026-musical-note: "\f119";
+$font-Flaticon-027-eject: "\f11a";
+$font-Flaticon-028-electric-guitar: "\f11b";
+$font-Flaticon-029-equalizer: "\f11c";
+$font-Flaticon-030-fast-forward: "\f11d";
+$font-Flaticon-031-amplifier: "\f11e";
+$font-Flaticon-032-guitar: "\f11f";
+$font-Flaticon-033-headphones: "\f120";
+$font-Flaticon-034-volume: "\f121";
+$font-Flaticon-035-ipod: "\f122";
+$font-Flaticon-036-earphones: "\f123";
+$font-Flaticon-037-maracas: "\f124";
+$font-Flaticon-038-megaphone: "\f125";
+$font-Flaticon-039-microphone: "\f126";
+$font-Flaticon-040-microphone: "\f127";
+$font-Flaticon-041-album: "\f128";
+$font-Flaticon-042-compact-disc: "\f129";
+$font-Flaticon-043-album: "\f12a";
+$font-Flaticon-044-equalizer: "\f12b";
+$font-Flaticon-045-music-stand: "\f12c";
+$font-Flaticon-046-smartphone: "\f12d";
+$font-Flaticon-047-playlist: "\f12e";
+$font-Flaticon-048-mute: "\f12f";
+$font-Flaticon-049-next: "\f130";
+$font-Flaticon-050-pause: "\f131";
+$font-Flaticon-051-phonograph: "\f132";
+$font-Flaticon-052-piano: "\f133";
+$font-Flaticon-053-play: "\f134";
+$font-Flaticon-054-previous: "\f135";
+$font-Flaticon-055-musical-note: "\f136";
+$font-Flaticon-056-musical-note: "\f137";
+$font-Flaticon-057-radio: "\f138";
+$font-Flaticon-058-record: "\f139";
+$font-Flaticon-059-microphone: "\f13a";
+$font-Flaticon-060-microphone: "\f13b";
+$font-Flaticon-061-rewind: "\f13c";
+$font-Flaticon-062-earphones: "\f13d";
+$font-Flaticon-063-saxophone: "\f13e";
+$font-Flaticon-064-musical-note: "\f13f";
+$font-Flaticon-065-shaker: "\f140";
+$font-Flaticon-066-wave: "\f141";
+$font-Flaticon-067-speaker: "\f142";
+$font-Flaticon-068-stop: "\f143";
+$font-Flaticon-069-tambourine: "\f144";
+$font-Flaticon-070-treble-clef: "\f145";
+$font-Flaticon-071-triangle: "\f146";
+$font-Flaticon-072-trumpet: "\f147";
+$font-Flaticon-073-tuning-fork: "\f148";
+$font-Flaticon-074-turntable: "\f149";
+$font-Flaticon-075-microphone: "\f14a";
+$font-Flaticon-076-violin: "\f14b";
+$font-Flaticon-077-volume: "\f14c";
+$font-Flaticon-078-volume: "\f14d";
+$font-Flaticon-079-volume: "\f14e";
+$font-Flaticon-080-xylophone: "\f14f";

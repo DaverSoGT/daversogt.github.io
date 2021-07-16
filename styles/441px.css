@@ -1,0 +1,13 @@
+header div {
+  max-width: 264px;
+}
+.main__lyrics {
+  max-width: 352px;
+}
+.main__card img {
+  max-width: 275px;
+}
+.main__tunein {
+  width: 80%;
+  margin-top: 0px;
+}
