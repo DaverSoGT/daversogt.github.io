@@ -118,6 +118,9 @@ footer span {
   color: white;
   font-family: 'Flaticon';
 }
+footer span:hover {
+  color: #979797;
+}
 .big {
   font-size: 3.5rem;
   margin-left: 5px;
